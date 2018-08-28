@@ -1,0 +1,22 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "Nodejs note app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuyguKeskek/notes-app.git"
+  },
+  "author": "Duygu Keskek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DuyguKeskek/notes-app/issues"
+  },
+  "homepage": "https://github.com/DuyguKeskek/notes-app#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
